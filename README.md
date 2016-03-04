@@ -6,3 +6,5 @@ Solution to AXA Kaggle challenge to determine driver pattern from GPS data
 3. train.py implements the ensemble, using Sebastian Raschka's ensemble classifier.
 
 Data must be retrieved from Kaggle website, and appropriate path locations changed in the code.
+
+Related notebook is availabel in notebooks folder
